@@ -1,0 +1,12 @@
+div {
+	width: 30%;
+	margin: 5rem auto;
+	text-align: center;
+	border: 1px solid black;
+	padding: 2rem;
+	border-radius: 10px;
+}
+
+.count {
+	background-color: #a0e7e5;
+}
